@@ -63,10 +63,8 @@ All DNS queries on the network are routed through the Pi, where they are filtere
 
 ## 📁 Repository Structure
 
-
-
-pihole-security-gateway/
-├── export_dns_stats.py # Python telemetry exporter
-├── dns_stats.json # Latest DNS snapshot
-├── dns_stats.csv # Historical DNS metrics
-├── README.md
+pihole-security-gateway/  
+├── export_dns_stats.py # Python telemetry exporter  
+├── dns_stats.json # Latest DNS snapshot  
+├── dns_stats.csv # Historical DNS metrics  
+├── README.md  
