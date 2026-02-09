@@ -8,9 +8,7 @@ from typing import Optional
 FTL_DB = "/etc/pihole/pihole-FTL.db"
 GRAVITY_DB = "/etc/pihole/gravity.db"
 
-# ✅ From your query:
-# status distribution today: 2, 3, 17
-# Treat status=3 as "blocked" on your build.
+
 BLOCKED_STATUSES = (3,)
 
 
